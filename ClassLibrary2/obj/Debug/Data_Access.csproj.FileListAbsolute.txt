@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\obj\Debug\Data_Access.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\obj\Debug\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\User\source\repos\Gadget_Hub\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
