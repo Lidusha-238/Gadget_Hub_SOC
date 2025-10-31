@@ -1,0 +1,95 @@
+﻿body {
+    background-color: white;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Sidebar */
+.col-auto {
+    background-color: #e6e6fa; /* lavender */
+    color: #4b0082; /* dark purple */
+}
+
+    .col-auto h3 {
+        color: #4b0082;
+    }
+
+.btn-link {
+    color: #4b0082;
+    text-align: left;
+    width: 100%;
+}
+
+    .btn-link:hover {
+        background-color: #dcdcff;
+        color: #4b0082;
+    }
+
+.btn-danger {
+    background-color: #ff6666;
+    border-color: #ff4d4d;
+    color: white;
+}
+
+/* Main Content */
+h3 {
+    color: #4b0082;
+    margin-bottom: 20px;
+}
+
+.table {
+    background-color: white;
+    border-radius: 6px;
+}
+
+    .table th {
+        background-color: #6c63ff; /* purple header */
+        color: white;
+    }
+
+    .table td {
+        vertical-align: middle;
+    }
+
+.form-control {
+    border-radius: 6px;
+    border: 1px solid #dcdcff;
+}
+
+.btn-primary {
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+    color: white;
+}
+
+    .btn-primary:hover {
+        background-color: #554fcf;
+        border-color: #554fcf;
+    }
+
+.btn-success {
+    background-color: #4b0082;
+    border-color: #4b0082;
+    color: white;
+}
+
+    .btn-success:hover {
+        background-color: #3a0066;
+        border-color: #3a0066;
+    }
+
+.btn-danger {
+    background-color: #ff6666;
+    border-color: #ff4d4d;
+    color: white;
+}
+
+.fw-bold {
+    color: #4b0082;
+}
+
+.validation-message {
+    font-size: 0.9rem;
+    color: #dc3545;
+    display: block;
+    margin-top: 2px;
+}
