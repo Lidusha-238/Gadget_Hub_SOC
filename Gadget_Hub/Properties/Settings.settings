@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Gadget_Hub.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Gadget_Hub_localhost_WebService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/UserService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost3_AdminService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/AdminService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost_UserService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/UserService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost1_DistributerService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/DistributerService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost2_MainPageService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/MainPageService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost4_CartService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/CartService.asmx</Value>
+    </Setting>
+    <Setting Name="Gadget_Hub_localhost6_UserDashboardService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44397/UserDashboardService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
